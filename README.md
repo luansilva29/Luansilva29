@@ -1,16 +1,14 @@
-## Hi there 👋
+### Bem-vindos ao meu perfil! 
 
-<!--
-**luansilva29/Luansilva29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é luan da silva
 
-Here are some ideas to get you started:
+estou estudando na [alura](https://alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou desenvolvendo estudos de tecnologia
+
+### Você pode entrar em contato comigo 📫
+
+
+luandasilva2815@gmail.com
+
+https://tenor.com/pt-BR/view/patrick-sponge-bob-so-cold-winter-bad-weather-gif-11741706
